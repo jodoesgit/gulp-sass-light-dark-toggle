@@ -8,6 +8,7 @@
 
     label {
         font-size: rem(14);
+        font-weight: 700;
         color: var(--toggle);
 
         &[for='dark'] {
@@ -30,6 +31,7 @@
         &:focus ~ .toggle__button {
             border: 2px solid white;
         }
+
     }
 
     &__background{
@@ -51,7 +53,7 @@
         width: rem(18);
         height: rem(18);
         border-radius:50%;
-        background: var(--toggle);
+        background-color: var(--toggle-button);
         transition: all 150ms ease-in-out;
     }
     
