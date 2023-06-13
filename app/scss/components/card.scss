@@ -65,6 +65,11 @@
         margin-bottom: rem(28);
     }
 
+    &__subtitle {
+        font-size: rem(14);
+        font-weight: 700;
+    }
+
     &__icon {
         margin: rem(8);
 
@@ -106,7 +111,7 @@
         }
 
         &--small {
-
+            font-size: rem(32);
         }
     }
     
