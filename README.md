@@ -1,4 +1,6 @@
-#Live: [Dark/Light Toggle](https://fem-light-dark-toggle.vercel.app/)
+# **Live: [Dark/Light Toggle](https://fem-light-dark-toggle.vercel.app/)**
+
+---
 
 # Frontend Mentor - Social media dashboard with theme switcher
 
